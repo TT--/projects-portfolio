@@ -1,4 +1,4 @@
-# Cisc 323 - 2005
+# Cisc 323 (2005)
 
 ## Assn5
 
@@ -13,6 +13,7 @@ My implementation differs from the one proposed in my assignment four in these t
 I didn't draw these in assignment four, because I had not considered exactly how I was going to allow the "Selection" of a track or CD at that time.
 
 **the sequence of events**
+
 If the user makes a change such as adding or deleting a CD or Track, then the particular editing dialog is closed so that the ComboBoxes in it may be redrawn when it is opened again.
 
 
