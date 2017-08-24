@@ -22,4 +22,6 @@ The following functionality requested by the customer has been implemented:
 
 - CDs must have a Title and Tag when added or modified, and
 
-- there is a Confirmation Dialog before Reading or Exiting when the Catalog has changed (Boolean `hasChanged variable to the Catalog class)
+- there is a Confirmation Dialog before Reading or Exiting when the Catalog has changed
+
+(see Boolean `hasChanged` variable in Catalog class)
