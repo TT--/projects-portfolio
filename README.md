@@ -3,7 +3,7 @@
 © Tyler Trezise
 
 
-* ![Web scraping employment leads (Python)](/souptest_jobs.py "Web scraping with Python")
+* ![Web scraping of a page loaded by XMLHttpRequest (Python)](/souptest_jobs.py "Web scraping with Python")
 
 * ![Microcontroller based Parts Inspection and Sorting System (C)](/sorting-system.c "Microcontroller based Parts Inspection and Sorting System")
 
