@@ -1,9 +1,11 @@
 # Directory for loose project files
 
-(c) Tyler Trezise
+© Tyler Trezise
 
 
-* ![Microcontroller based Parts Inspection and Sorting System (C)](/sorting-system.c "Microcontroller based Parts Inspection and Sorting SystemM")
+* ![Web scraping employment leads (Python)](/souptest_jobs.py "Web scraping with Python")
+
+* ![Microcontroller based Parts Inspection and Sorting System (C)](/sorting-system.c "Microcontroller based Parts Inspection and Sorting System")
 
 * ![2D Drivin - game (VB) for 2002 class final project](../../../2DDrivin "2D Drivin'")
 
