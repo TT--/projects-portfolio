@@ -22,6 +22,15 @@ import csv
 def parsePage(page):
     strainedSoup2 = BeautifulSoup(page, "lxml", parse_only=onlysearchResults)    
     for li in strainedSoup2:
+                
+        # set default values in case they're not present in the results
+        closingDate = ""
+        jobtitle = ""
+        joblink = ""
+        organisation = ""
+        langReq = ""
+        salary = ""
+        
         jobtitle = li.a.string
         joblink = baseUrl + li.a['href']
         
