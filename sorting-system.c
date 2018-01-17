@@ -1,4 +1,4 @@
-// TYLER TREZISE  Winter 2010
+// author: Tyler (at) Trezise (dot ca)
 // (Refer to system diagram for port wiring)
 // OR = Optical (phototransistor) at Reflectivity station
 // EX = infrared sensor at Exit of belt
